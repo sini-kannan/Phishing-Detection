@@ -109,9 +109,9 @@ Dear Colleague, Please find attached the quarterly financial report for your rev
 
 ## System Demonstration
 
-![Description of image](images/demo1.png)
-![Description of image](images/demo2.png)
-![Description of image](images/demo3.png)
+![Description of image](images/demo 1.png)
+![Description of image](images/demo 2.png)
+![Description of image](images/demo 3.png)
 
 ## Contact Information
 
