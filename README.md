@@ -111,14 +111,10 @@ Dear Colleague, Please find attached the quarterly financial report for your rev
 # System Demonstration
 
 ![Demo 1](images/demo1.png)  
-*Description of first demo*  
 
 ![Demo 2](images/demo2.png)  
-*Description of second demo*  
 
 ![Demo 3](images/demo3.png)  
-*Description of third demo*  
-
 
 ## Contact Information
 
