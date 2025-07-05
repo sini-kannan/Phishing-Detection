@@ -108,13 +108,13 @@ Dear Colleague, Please find attached the quarterly financial report for your rev
 | Processing Latency | ≤200ms |
 
 # System Demonstration
-# System Demonstration
 
-![Demo 1](images/demo1.png)  
 
-![Demo 2](images/demo2.png)  
+![Demo 1](demo%201.png)  
 
-![Demo 3](images/demo3.png)  
+![Demo 2](demo%202.png)   
+
+![Demo 3](demo%203.png)  
 
 ## Contact Information
 
